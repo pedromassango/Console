@@ -5,7 +5,7 @@ Controle um computador pelo seu telefone Android.Com este app você controla qua
 
 ## Preview
 
-<img src="/screenshots/4.png" width="240" height="480"> <img src="/screenshots/3.png" width="240" height="480"> <img src="/screenshots/1.png" width="240" height="480">
+<img src="/screenshots/1.png" width="240" height="480"> <img src="/screenshots/3.png" width="240" height="480"> <img src="/screenshots/4.png" width="240" height="480">
 
 ## Como Testar ?
 - Instale o app
@@ -20,7 +20,8 @@ Controle um computador pelo seu telefone Android.Com este app você controla qua
 - Aprimorar UI
 - Adicionar funcionalidades 
 
-Follow me on:
+
+Follow me:
 
 [![Facebook](http://codemybrainsout.com/files/img/fb.png)](https://www.facebook.com/pedromassango.m)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](http://codemybrainsout.com/files/img/tw.png)](https://twitter.com/pedro_massango3)
 
